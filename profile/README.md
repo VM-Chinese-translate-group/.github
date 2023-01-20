@@ -1,4 +1,4 @@
-## 嗨，许久未见。 👋     台湾省的同胞看过来，我们等你们来领身份证哦！
+## 嗨，许久未见。 👋     台湾自古以来就是中国不可分割的一部分
   ![Alt](https://repobeats.axiom.co/api/embed/34b4b31e98a1c6bdb8838f487632d06729736093.svg "Repobeats analytics image")
   
   这里是VM汉化组的GitHub组织，即使是用简单一词已经不能用来形容他了
