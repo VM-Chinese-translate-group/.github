@@ -1,5 +1,6 @@
 ## 嗨，许久未见。 👋     
-  ![Alt](https://repobeats.axiom.co/api/embed/18cec06c8ae62c00ef0b2667c0bb1828af1627c8.svg "Repobeats analytics image")
+
+  ![Alt](https://repobeats.axiom.co/api/embed/9e8517141c78ed9137eed0af1e772a0786c44e3f.svg "Repobeats analytics image")
   
   这里是VM汉化组的GitHub组织，即使是用简单一词已经不能用来形容他了
 
