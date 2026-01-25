@@ -4,21 +4,27 @@
 <p align="center">一个用爱发电专注于汉化Minecraft整合包与地图的非盈利组织</p>
 </p>
 
-VM Chinese Translation Group，中文名称VM汉化组（VM全称为Vanilla Master），由曲逸在 2022 年 8 月创立。
-经过众多 up 主的使用和传播后一度成为最知名的 MC 整合包与地图汉化团队之一。由一开始的跟着热门做汉化，到以汉化引领潮流，带火一些地图。
-亦与知名的Feed The Beast团队有一定深度的合作。 截止2025年6月，我们的汉化已经积累超**100万下载**！
+VM Chinese Translation Group，中文名称 VM 汉化组。VM 全称为 Vanilla
+Master。
+由曲逸在 2022 年 8 月创立。经过众多 up 主的使用和传播后一度成为最知名的 MC整合包与地图汉化团队之一。
+由一开始的跟着热门做汉化到以汉化引领潮流，到带火CTM类地图。亦与知名的 Feed The Beast 团队有一定深度的合作。行而不辍，未来可期。
 
-VM 汉化组拥有数量庞大的汉化使用群体，也是目前最活跃的MC整合包与地图汉化组之一。
+
+VM 汉化组拥有数量庞大的汉化使用玩家群体，是目前最活跃的MC整合包与地图汉化组之一。
 
 > **行而不辍，未来可期！**
 
 <a href="https://discord.gg/SvJM5d9S98"><img alt="discord-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg"></a>
 
-汉化组官网：<https://vmct-cn.top/vmtu/>
+汉化组官网：<https://vmct-cn.top/>
 
 Bilibili 频道：<https://space.bilibili.com/2085089798>
 
 QQ 交流群：<https://qm.qq.com/q/zfY3xUJ2YS>
+
+QQ 外部审核群：<https://qm.qq.com/q/WU5GGJhJeu>
+
+Discord 群组：<https://discord.gg/SvJM5d9S98>
 
 ---
 
@@ -36,7 +42,7 @@ VM汉化组由一群具有相同爱好的小伙伴组成，我们携手并肩，
 
 通过我们制作的VM汉化更新模组，使玩家能够轻松检查汉化更新并第一时间在游戏内收到通知。我们的专用模组旨在为玩家提供更便捷、实时的汉化体验。
 
-不仅如此，随着模组的开发，还加入了自动切换游戏语言，下载汉化资源包，检查i18n和Vault Patch模组安装等功能。更多功能介绍和使用请查看[模组文档](https://vmct-cn.top/vmtu/)。
+不仅如此，随着模组的开发，还加入了自动切换游戏语言，下载汉化资源包，检查 i18nupdatemod 和 Vault Patch 模组安装等功能。更多功能介绍和使用请查看[模组文档](https://vmct-cn.top/vmtu/)。
 
 [![GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/github_vector.svg)](https://github.com/VM-Chinese-translate-group/VMTranslationUpdateMod)
 [![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/vmupdate)
