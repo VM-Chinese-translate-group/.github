@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://vmct-cn.top/imgs/logo/logo_256.png" height="256px" width="256px">
-<h1 align="center">VM汉化组</h1>
-<p align="center">一个专注于 Minecraft 整合包与地图汉化的非营利组织，为爱发电。</p>
-</p>
+<div align="center">
+  <img src="https://vmct-cn.top/imgs/logo/logo_256.png" height="200" width="200" alt="VMCT Logo">
+  <h1>VM 汉化组</h1>
+  <p>
+    一个专注于 Minecraft 整合包与地图汉化的非盈利组织，为爱发电。
+  </p>
 
 VM Chinese Translation Group（中文名：VM 汉化组），全称为 Vanilla Master。
 由曲逸在 2022 年 8 月创立。得益于众多 UP 主的使用与传播，我们已成长为圈内最知名的 MC 整合包与地图汉化团队之一。
@@ -13,17 +14,31 @@ VM 汉化组拥有庞大的用户群体，是目前最活跃的 MC 整合包与�
 
 > **行而不辍，未来可期！**
 
-<a href="https://discord.gg/SvJM5d9S98"><img alt="discord-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg"></a>
-
-汉化组官网：<https://vmct-cn.top/>
-
-Bilibili 频道：<https://space.bilibili.com/2085089798>
-
-QQ 交流群：<https://qm.qq.com/q/zfY3xUJ2YS>
-
-QQ 外部审核群：<https://qm.qq.com/q/WU5GGJhJeu>
-
-Discord 群组：<https://discord.gg/SvJM5d9S98>
+<p>
+    <!-- 官网 -->
+    <a href="https://vmct-cn.top/">
+      <img src="https://img.shields.io/badge/官网-VM汉化组-2b3137?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+    </a>
+    <!-- B站 -->
+    <a href="https://space.bilibili.com/2085089798">
+      <img src="https://img.shields.io/badge/Bilibili-官方频道-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
+    </a>
+    <!-- Discord -->
+    <a href="https://discord.gg/SvJM5d9S98">
+      <img src="https://img.shields.io/badge/Discord-加入群组-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+  </p>
+  <p>
+    <!-- QQ 交流群 -->
+    <a href="https://qm.qq.com/q/zfY3xUJ2YS">
+      <img src="https://img.shields.io/badge/QQ-交流群-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ Group">
+    </a>
+    <!-- QQ 审核群 -->
+    <a href="https://qm.qq.com/q/WU5GGJhJeu">
+      <img src="https://img.shields.io/badge/QQ-外部审核群-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ Audit">
+    </a>
+  </p>
+</div>
 
 ---
 
