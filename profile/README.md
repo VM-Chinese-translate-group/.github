@@ -50,15 +50,8 @@ VM 汉化组由一群志同道合的小伙伴组成。我们携手并肩，为�
 
 我们深知作者的付出和保护知识产权的重要性。绝大多数翻译项目均已获得作者官方授权。我们承诺不分发游戏本体，仅提供汉化补丁下载，最大程度保障作者权益。
 
-## 独家模组
+## 🧩 独家模组
 
-[![Icon](https://cdn.modrinth.com/data/wvCSIW08/c3b63fc73c9a15f99a29d9284fb4558aa667d54e_96.webp)](https://modrinth.com/mod/vmupdate)
-
-我们就制作了 **VM 汉化更新模组**，让玩家能够轻松检查汉化更新，并在第一时间于游戏内收到通知。该模组旨在提供更便捷、实时的汉化体验。
-
-此外，模组还集成了自动切换游戏语言、下载汉化资源包，以及检查 i18nUpdateMod 和 Vault Patch 模组安装状态等功能。更多详情请参阅[模组文档](https://vmct-cn.top/vmtu/)。
-
-[![GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/github_vector.svg)](https://github.com/VM-Chinese-translate-group/VMTranslationUpdateMod)
-[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/vmupdate)
-[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/vmtranslationupdate)
-
+| 模组图标 | 模组详情 |
+| :---: | :--- |
+| [![VMUpdate Icon](https://cdn.modrinth.com/data/wvCSIW08/c3b63fc73c9a15f99a29d9284fb4558aa667d54e_96.webp)](https://modrinth.com/mod/vmupdate/gallery) | **VM 汉化更新模组 (VM Translation Update)**<br><br>我们制作了专用的更新模组，让玩家能够轻松检查更新，并在第一时间于游戏内收到通知。此外，模组还集成了自动切换语言、下载资源包以及检查前置模组安装状态等功能。<br><br>📄 [查看详细模组文档](https://vmct-cn.top/vmtu/)<br><br>[![Modrinth](https://img.shields.io/badge/Modrinth-下载-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/vmupdate) [![CurseForge](https://img.shields.io/badge/CurseForge-下载-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/vmtranslationupdate) [![GitHub](https://img.shields.io/badge/GitHub-源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VM-Chinese-translate-group/VMTranslationUpdateMod) |
