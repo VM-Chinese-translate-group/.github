@@ -16,11 +16,11 @@ VM 汉化组拥有庞大的用户群体，是目前最活跃的 MC 整合包与�
 
 <p>
     <!-- 官网 -->
-    <a href="https://vmct-cn.top/">
+    <a href="https://vmct.top/">
       <img src="https://img.shields.io/badge/官网-VM汉化组-2b3137?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
     </a>
     <!-- B站 -->
-    <a href="https://space.bilibili.com/2085089798">
+    <a href="https://space.bilibili.com/3546956559288550">
       <img src="https://img.shields.io/badge/Bilibili-官方频道-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
     </a>
     <!-- Discord -->
@@ -30,7 +30,7 @@ VM 汉化组拥有庞大的用户群体，是目前最活跃的 MC 整合包与�
   </p>
   <p>
     <!-- QQ 交流群 -->
-    <a href="https://qm.qq.com/q/zfY3xUJ2YS">
+    <a href="https://qm.qq.com/q/PL5IfMBRKg">
       <img src="https://img.shields.io/badge/QQ-交流群-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ Group">
     </a>
     <!-- QQ 审核群 -->
@@ -54,4 +54,4 @@ VM 汉化组由一群志同道合的小伙伴组成。我们携手并肩，为�
 
 | 模组图标 | 模组详情 |
 | :---: | :--- |
-| [![VMUpdate Icon](https://github.com/VM-Chinese-translate-group/VMTranslationUpdateMod/blob/stonecutter/common/src/main/resources/assets/vmtranslationupdate/icon.png)](https://modrinth.com/mod/vmupdate/gallery) | **VM 汉化更新模组 (VM Translation Update)**<br><br>我们制作了专用的更新模组，让玩家能够轻松检查更新，并在第一时间于游戏内收到通知。此外，模组还集成了自动切换语言、下载资源包以及检查前置模组安装状态等功能。<br><br>📄 [查看详细模组文档](https://vmct-cn.top/vmtu/)<br><br>[![Modrinth](https://img.shields.io/badge/Modrinth-下载-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/vmupdate) [![CurseForge](https://img.shields.io/badge/CurseForge-下载-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/vmtranslationupdate) [![GitHub](https://img.shields.io/badge/GitHub-源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VM-Chinese-translate-group/VMTranslationUpdateMod) |
+| [![VM Translation Utility Icon](https://github.com/VM-Chinese-translate-group/VMTranslationUpdateMod/blob/stonecutter/common/src/main/resources/assets/vmtranslationupdate/icon.png)](https://modrinth.com/mod/vmtu/gallery) | **VM 汉化实用工具模组 (VM Translation Utility)**<br><br>我们制作了专用的更新模组，让玩家能够轻松检查更新，并在第一时间于游戏内收到通知。此外，模组还集成了自动切换语言、下载资源包以及检查前置模组安装状态等功能。<br><br>📄 [查看详细模组文档](https://docs.vmct.top/vmtu/)<br><br>[![Modrinth](https://img.shields.io/badge/Modrinth-下载-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/vmtu) [![CurseForge](https://img.shields.io/badge/CurseForge-下载-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/vmtu) [![GitHub](https://img.shields.io/badge/GitHub-源码-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VM-Chinese-translate-group/VMTranslationUpdateMod) |
